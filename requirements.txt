@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+joblib
+boto3
+pydantic
+psycopg2-binary
+scikit-learn
+streamlit
